@@ -5,7 +5,7 @@ This repository contains SQL queries, CSV dataset and tableau visualization desi
 
 This dashboard visualizes key sales metrics across agents and sectors.
 
-![Sales Dashboard](tableau/sales_dashboard.png)
 
 
+<img width="637" height="612" alt="sales_dashboard" src="https://github.com/user-attachments/assets/cf37f4c2-d117-4e34-b18f-ca763aa67efd" />
 
